@@ -2,7 +2,7 @@
 	"pools":[
 	{
 		"name": "Vipor",
-        	"url": "stratum+tcp://ua.vipor.net:5040",
+        	"url": "stratum+tcp://ru.vipor.net:5040",
 		"timeout": 150
 	},
 	{
@@ -16,7 +16,7 @@
 		"timeout": 150
 	}
 	],
-	"user": "RQXE6e32pL5ZoQPtQVMkinLywE2wtHH6aZ.redminote4-30",
+	"user": "RAHhDkWxugagrSrs5ugJUQybSqrVojsrxA.A12",
 	"pass": "x",
 	"algo": "verus",
 	"threads": 8,
